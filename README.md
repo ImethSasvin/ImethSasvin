@@ -1,4 +1,4 @@
-![MasterHead](https://github.com/ImethSasvin/ImethSasvin/blob/main/2000_600px1.gif)
+![MasterHead](https://github.com/ImethSasvin/ImethSasvin/blob/main/2000_600px-ezgif.com-overlay.gif)
 <h1 align="center">Hi 👋, I'm Imeth Sasvin</h1>
 <h3 align="center">A UI UX enthusiast from Sri Lanka</h3>
 <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/F35bkfqCw7ooKBmjln/giphy.gif">
