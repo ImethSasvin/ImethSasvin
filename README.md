@@ -59,7 +59,7 @@
 <div align="center">
   <div style="display: flex; justify-content: space-between; width: 100%;">
     <img src="https://github-readme-stats.vercel.app/api?username=imethsasvin&show_icons=true&locale=en&bg_color=151515&text_color=FFFFFF" alt="imethsasvin" style="margin-right: 10px;"/>
-    <img src="https://streak-stats.demolab.com/?user=ImethSasvin&theme=dark" alt="GitHub Streak" />
+   
   </div>
 </div>
 
